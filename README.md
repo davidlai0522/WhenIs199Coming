@@ -46,6 +46,11 @@ This is a simple Python application that notifies you when a specific bus is arr
     export LTA_API_KEY='xxxxx'
     export TELEGRAM_TOKEN='xxxxx'
     ```
+    - Obtain API key frrom here:
+        - [Groq](https://console.groq.com/docs/quickstart)
+        - [LTA](https://datamall.lta.gov.sg/content/datamall/en/request-for-api.html)
+        - [Telegram](https://www.siteguarding.com/en/how-to-get-telegram-bot-api-token)
+
 
 ## Usage
 
